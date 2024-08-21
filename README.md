@@ -1,5 +1,5 @@
 # credit_customer_churn_prediction
-# credit_customer_churn_prediction
+
 
 ## Introduction	  
 Churn also referred to as "attrition" or "churn rate," is the number of subscribers that have terminated their subscriptions over a predetermined time period (Burris, 2023). Customer churn rate is important to businesses because it will affect companies’ revenue. Businesses that lose their consumers not only lost revenue but also will pay high costs to acquire new customers (Moller, 2022). Therefore it is significant that companies can predict the customers who have high loyalty and who have a high possibility of leaving. Then we could take measures to maintain current customers and reduce the churn rate. This project aims to create a model to predict their churning customers and explore the factors which might retain them to stay and the reasons that caused them to leave.   
@@ -28,6 +28,9 @@ I will create 3 models to predict customer churn. It is important to choose the 
 4.	What we could do to those customers who are predicted to leave the bank?
 The purpose of this project is to find the strategies to retain the customers who might leave the bank through the analysis and prediction.   
 
+## EDA Dashboard created using Streamlit  
+#### [EDA Dashboard](https://scarlettqiu-credit-card-customer-churn-pre-eda-streamlit-x8me96.streamlit.app/)  
+![image](https://user-images.githubusercontent.com/93269907/230678680-8e1d6486-2ecc-4d7e-b9e6-db72dd453969.png)
 
 ## Models
 Classification is the process of recognizing, comprehending, and classifying things into predetermined groups. In machine learning, classification algorithms use the input data to assess the probability that the target variable falls into one of the categories (Banoula, 2023). Customer churn prediction is a binary classification whose result is churn or not. Therefore, in this project, I will create 1 classification model to make the predictions.    
