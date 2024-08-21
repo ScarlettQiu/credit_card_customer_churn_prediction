@@ -30,7 +30,9 @@ The purpose of this project is to find the strategies to retain the customers wh
 
 ## EDA Dashboard created using Streamlit  
 #### [EDA Dashboard](https://scarlettqiu-credit-card-customer-churn-pre-eda-streamlit-x8me96.streamlit.app/)  
-![image](https://user-images.githubusercontent.com/93269907/230678680-8e1d6486-2ecc-4d7e-b9e6-db72dd453969.png)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://scarlettqiu-credit-card-customer-churn-pre-eda-streamlit-x8me96.streamlit.app/)   
+![image](https://user-images.githubusercontent.com/93269907/230689526-69911ce5-5dca-4721-8bd6-4b697d590dbf.png)
+![image](https://user-images.githubusercontent.com/93269907/231289329-694f7edf-724d-4aa5-b072-4e03adaad5f5.png)  
 
 ## Models
 Classification is the process of recognizing, comprehending, and classifying things into predetermined groups. In machine learning, classification algorithms use the input data to assess the probability that the target variable falls into one of the categories (Banoula, 2023). Customer churn prediction is a binary classification whose result is churn or not. Therefore, in this project, I will create 1 classification model to make the predictions.    
